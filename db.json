@@ -1,9 +1,57 @@
-
 {
- "agreements": [
- {
- "code": "0010Q5",
- "description": "CASA MATUSITA SA"
- }
- ]
+"operationDetail": {
+"sections": [
+{
+"title": "Datos de la operación",
+"items": [
+{
+"name": "Tipo de operación",
+"value": "Description not found"
+},
+{
+"name": "Estado",
+"value": "Pendinete de firma"
+},
+{
+"name": "Fecha de proceso",
+"value": "10/05/2020 03:08 AM"
+}
+]
+},
+{
+"title": "Datos de proceso de la operación",
+"items": [
+{
+"name": "Código de solicitud",
+"value": "47"
+},
+{
+"name": "Solicitado por",
+"value": "BACKUS Y JOHNSTON S.A."
+},
+{
+"name": "Fecha de preparación",
+"value": "10/05/2020 03:08 AM"
+}
+]
+},
+{
+"title": "Especificaciones de la solicitud",
+"items": [
+{
+"name": "Importe solicitado",
+"value": "1 11.00"
+},
+{
+"name": "Empresa solicitante",
+"value": "LEITO HUANCA ESPINOZA 6 20100220475"
+},
+{
+"name": "Benficiado",
+"value": "Del Valle. SA"
+}
+]
+}
+]
+}
 }
